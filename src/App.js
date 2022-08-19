@@ -6,7 +6,7 @@ export default function App() {
   return (
     <h1>
       hi Iam developer
-      <Button>Shirin</Button>
+      <Button variant="contained">Shirin</Button>
     </h1>
   );
 }
